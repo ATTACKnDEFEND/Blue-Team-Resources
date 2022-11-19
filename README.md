@@ -12,12 +12,12 @@ NOTE - please be mindful when uploading any files or including urls which might 
 - CyberChef https://gchq.github.io/CyberChef/
 
 Deobfuscators
--JavaScript Deobfuscator relative/synchrony  https://lnkd.in/gwDqWXcM
--de4js | JavaScript Deobfuscator and Unpacker https://lnkd.in/gbV4fGCR
+-JavaScript Deobfuscator relative/synchrony https://github.com/relative/synchrony
+-de4js JavaScript Deobfuscator and Unpacker https://lelinhtinh.github.io/de4js/
 -JavaScript Deobfuscator https://deobfuscate.io/
--Javascript DeObfuscator seosniffer https://lnkd.in/gRDsPQKf
--PowerShell PSDecode https://lnkd.in/gpYDPjXg
--PowerShell ExtractAllScripts https://lnkd.in/g7t2E4dS
+-Javascript DeObfuscator seosniffer https://seosniffer.com/javascript-deobfuscator
+-PowerShell PSDecode https://github.com/R3MRUM/PSDecode
+-PowerShell ExtractAllScripts https://gist.github.com/vikas891/841ac223e69913b49dc2aa9cc8663e34
 
 Decryption
 - Scwf dima ninja https://scwf.dima.ninja/
