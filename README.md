@@ -2,14 +2,14 @@
 
 Malware Analysis
 NOTE - please be mindful when uploading any files or including urls which might contain private or company information such as email addresses encoded in the url to public sites.
-- virustotal https://lnkd.in/gcB-smuV
+- virustotal https://www.virustotal.com/gui/home/upload
 - anyrun https://app.any.run
-- triage https://lnkd.in/gdVWc56G
-- hybrid-analysis https://lnkd.in/gXbz3BQr
+- triage https://tria.ge/login?return_to=%2Fdashboard
+- hybrid-analysis https://www.hybrid-analysis.com/
 - urlscan https://urlscan.io
-- Didier Stevens https://lnkd.in/gepwgAkK
-- Eric Zimmerman https://lnkd.in/gUGNDdug
-- CyberChef https://lnkd.in/gT9VDQnk
+- Didier Stevens https://blog.didierstevens.com/my-software/
+- Eric Zimmerman https://ericzimmerman.github.io/#!index.md
+- CyberChef https://gchq.github.io/CyberChef/
 
 Deobfuscators
 -JavaScript Deobfuscator relative/synchrony  https://lnkd.in/gwDqWXcM
