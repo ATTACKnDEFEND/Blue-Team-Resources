@@ -1,4 +1,4 @@
-# BLueTeam_free_resources
+# BlueTeam_free_resources
 
 ## Malware Analysis
 
