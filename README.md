@@ -9,6 +9,7 @@ NOTE - please be mindful when uploading any files or including urls which might 
 - hybrid-analysis https://www.hybrid-analysis.com/
 - urlscan https://urlscan.io
 - Didier Stevens https://blog.didierstevens.com/my-software/
+- David Zimmer http://sandsprite.com/tools.php
 - Eric Zimmerman https://ericzimmerman.github.io/#!index.md
 - CyberChef https://gchq.github.io/CyberChef/
 
