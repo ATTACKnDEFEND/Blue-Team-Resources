@@ -2,6 +2,7 @@
 
 ## Monitoring
 - sysmon config: Sysmon configuration file template with default high-quality event tracing. https://github.com/SwiftOnSecurity/sysmon-config
+- ELK-stack: Elasticsearch, Logstash, and Kibana. https://www.elastic.co/what-is/elk-stack
 
 ## Malware Analysis
 
@@ -111,3 +112,4 @@ NOTE - please be mindful when uploading any files or including urls which might 
 
 ## Other Awesome Resources
 - A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams. https://github.com/fabacab/awesome-cybersecurity-blueteam
+- How To Install Elasticsearch, Logstash, and Kibana (Elastic Stack) on Ubuntu 22.04 https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elastic-stack-on-ubuntu-22-04
