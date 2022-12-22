@@ -108,3 +108,6 @@ NOTE - please be mindful when uploading any files or including urls which might 
 - ACSC (an Australian site) https://www.cyber.gov.au/acsc/report
 - Microsoft https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest
 - Google https://safebrowsing.google.com/safebrowsing/report_badware/
+
+## Other Awesome Resources
+- A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams. https://github.com/fabacab/awesome-cybersecurity-blueteam
