@@ -1,4 +1,7 @@
-# BlueTeam_free_resources
+# BlueTeam Resources
+
+## Monitoring
+-sysmon config: Sysmon configuration file template with default high-quality event tracing. https://github.com/SwiftOnSecurity/sysmon-config
 
 ## Malware Analysis
 
